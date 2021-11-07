@@ -7,7 +7,13 @@ API сервис для работы с сервисом Yamdb. Позволяе
 Потверждение регистрации приходит на почту.
 
 ```
+Приложение доступно по адресу:
+```
+http://178.154.240.217:8000
+```
+
 ![example workflow](https://github.com/Mdk918/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 Автор:
 ```
 Гришин В.
